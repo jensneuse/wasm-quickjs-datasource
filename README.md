@@ -1,4 +1,4 @@
-# GraphQL WASM DataSource
+# QuickJS WASM DataSource
 
 This repo is an example of how to implement a wasm DataSource for [graphql-go-tools](https://github.com/jensneuse/graphql-go-tools).
 
